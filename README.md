@@ -1,6 +1,8 @@
 # BMI Calculator App
 
-![App Demo](link_to_app_demo_gif_or_screenshot)
+<p align="center">
+  <img src="/android/images/BMI_home_screen.jpg" alt="App Demo" width="200">
+</p>
 
 ## Description
 The BMI Calculator App is a two-screen application that calculates and displays the Body Mass Index (BMI) based on user-provided weight and height inputs. This app serves as a practical demonstration of various Flutter concepts I've learnt so far from Angela Yu's Flutter course.
@@ -13,8 +15,10 @@ The BMI Calculator App is a two-screen application that calculates and displays 
   - Creating custom widgets
 
 ## Screenshots
-![Home Screen](link_to_home_screen_screenshot)
-![Results Screen](link_to_results_screen_screenshot)
+<p align="center">
+  <img src="/android/images/BMI_home_screen.jpg" alt="Home Screen" width="200">
+  <img src="/android/images/BMI_results_screen.jpg" alt="Results Screen" width="200">
+</p>
 
 ## Future Release Plans
 In future releases, the following enhancements are planned:
