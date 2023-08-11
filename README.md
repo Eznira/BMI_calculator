@@ -46,4 +46,4 @@ For help getting started with Flutter development, view the [online documentatio
 This app is inspired by the teachings from Angela Yu's Flutter course, which provided the foundational knowledge necessary for its development.
 
 ## Contact
-For any questions or suggestions, feel free to contact the author at [your@email.com](mailto:your@email.com).
+For any questions or suggestions, feel free to contact the author at [ihimarinze@gmail.com](mailto:ihimarinze@gmail.com).
